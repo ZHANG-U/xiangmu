@@ -1,0 +1,55 @@
+.margin{width: 1200px;margin: 0 auto;}
+
+
+#header{height: 100px;}
+#header img{margin-top: 30px;}
+
+
+
+
+/* 背景图 */
+.bei{height:550px;background: url(../images/lb.jpeg) no-repeat;background-size:1263px 600px;position: relative;}
+
+/* 表单 */
+#forms{width: 380px;height: 370px;background: #fff;z-index: 10;position: absolute;top: 80px;left: 60px;font: 16px/40px "";padding: 10px 25px;}
+#forms .kuang{width: 380px;height: 40px;border: 1px solid #e1e1e1;float: left;margin-top: 20px;position: relative;}
+#forms .kuang img{border: 0;margin-top: -3px;}
+#forms .kuang input{border:0;width: 340px;height: 40px;float: right;}
+#forms .kuang .jianpan{position: absolute;right: 6px;bottom: 12px;}
+.yanzheng{width:380px;height: 42px;float: left;margin-top: 15px;}
+#tion{width: 123px;height: 40px;text-align: center;font:12px/40px "";color: #999;}
+.forget{width:380px;height: 38px;font: 14px/38px "";float: left;margin-top: 6px;}
+.forget a{display: block;float: left;}
+.forget a:nth-child(2){float: right;}
+
+
+
+
+
+
+
+
+#btn{width: 380px;height: 40px;background: #00bad6;color: #fff;font:800 16px/40px "";border: 0;text-align: center;border-radius: 6px;margin-top: 6px;cursor: pointer;}
+#forms p{font-size: 14px;margin-top: 6px;}
+#forms p a{color: #00bad6;margin-left: 6px;}
+
+
+/* 尾部 */
+.cont{height: 40px;text-align: center;font-size: 14px;}
+.cont p{margin-top: 20px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
